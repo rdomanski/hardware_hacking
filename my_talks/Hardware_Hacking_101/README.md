@@ -1,4 +1,5 @@
 # Hardware Hacking 101
+License: Attribution-NonCommercial-ShareAlike CC BY-NC-SA
 
 ## Workshop @ BSides Munich 2019  
 
